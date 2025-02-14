@@ -1,7 +1,6 @@
 # 2102 SRAM Tester #
 
-A basic tester to quickly check 2102 SRAM chips. This tester only performs rudimentary tests and is very lax with its timing so it may not fully detected marginal RAM chips.
-
+A basic tester to quickly check 2102 RAM chips. This tester only performs rudimentary tests and is very lax with its timing so it may not fully detect marginal RAM chips.
 
 ![RAM tester PCB](/images/tester.jpg)
 ![RAM schematics](/images/schematic.jpg)
